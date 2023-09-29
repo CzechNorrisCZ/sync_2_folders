@@ -74,6 +74,8 @@ def scheduler():
 
 
 def logger():
+    """Creates log file and add log info to the log file."""
+    
     logging.basicConfig(filename="log_files.log", level=logging.INFO)
 
 
