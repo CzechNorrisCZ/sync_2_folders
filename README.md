@@ -1,3 +1,3 @@
 # sync_2_folders
 
-Syncs 2 folders via the terminal. 
+This script syncs 2 folders, in minute intervals determined by the user, via the terminal. The script also creates a log file that records every change when folders are synced.
